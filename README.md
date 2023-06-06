@@ -13,7 +13,7 @@ The closed-loop supply chain (CLSC) is the supply chain that includes various re
 
 
 
-<img src="[https://github.com/Omarelfarouk90/Big-data-analytics/assets/53394104/5ab0602a-e80b-4c20-aeab-a9ff9803da7f](https://github.com/Omarelfarouk90/Multi-objective-COBYLA-optimization-for-supply-chain-mangment/assets/53394104/ff1f7da2-ffaa-4daa-99d3-1c80800730f0)" width="500" height="500">
+<img src="[https://github.com/Omarelfarouk90/Big-data-analytics/assets/53394104/5ab0602a-e80b-4c20-aeab-a9ff9803da7f]" width="500" height="500">
 
 
 Figure 1: CLSC model describtion amont various tiers 
